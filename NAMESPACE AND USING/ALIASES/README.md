@@ -1,0 +1,1 @@
+In this exercise, we are missing an alias from both **MasterProject.cs** and from **Program.cs**. Create them to make the code work. You can find the alias name by looking at the fully qualified names and method calls.
