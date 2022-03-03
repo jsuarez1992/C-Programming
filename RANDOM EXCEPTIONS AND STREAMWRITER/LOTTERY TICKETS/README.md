@@ -1,0 +1,1 @@
+Your assignment is to complete the class **LotteryRow**, which is used to draw the week's winning numbers. The numbers are in *range 1--40*, and *7 numbers will be drawn* in total. In other words, a **lottery row ** consists of *seven different numbers* that are all in *range 1--40*.
