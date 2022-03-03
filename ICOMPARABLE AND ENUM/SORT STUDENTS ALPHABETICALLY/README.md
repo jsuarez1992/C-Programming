@@ -1,0 +1,1 @@
+The exercise template includes the class **Student**, which has a name. Implement the **IComprable-interface** in the *Student-class* in a way, that the *CompareTo-method* sorts the students in alphabetical order based on their names.
