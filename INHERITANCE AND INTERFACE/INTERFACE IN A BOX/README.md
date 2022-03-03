@@ -1,0 +1,1 @@
+In this part we practice **Interfaces**. Moving houses requires packing all your belongings into boxes. Let's imitate that with a program. The program will have boxes, and items to pack into those boxes.
